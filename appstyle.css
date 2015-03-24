@@ -1,0 +1,9 @@
+
+QWidget {
+        background-color: #111;
+        alternate-background-color: #181;
+        selection-background-color: #555;
+        selection-color: #fff;
+        color: #aaa;
+        dialogbuttonbox-buttons-have-icons: 1;
+}
